@@ -1,0 +1,58 @@
+{
+  "1941-1950": {
+    "media_mensal": 159.22,
+    "total_meses": 107,
+    "meses_validos": 106,
+    "maximo": 628.3,
+    "minimo": 0.9
+  },
+  "1951-1960": {
+    "media_mensal": 140.09,
+    "total_meses": 22,
+    "meses_validos": 21,
+    "maximo": 310.1,
+    "minimo": 41.3
+  },
+  "1961-1970": {
+    "media_mensal": 197.04,
+    "total_meses": 106,
+    "meses_validos": 106,
+    "maximo": 619.2,
+    "minimo": 27.2
+  },
+  "1971-1980": {
+    "media_mensal": 208.92,
+    "total_meses": 120,
+    "meses_validos": 120,
+    "maximo": 560.0,
+    "minimo": 15.3
+  },
+  "1981-1990": {
+    "media_mensal": 192.52,
+    "total_meses": 120,
+    "meses_validos": 97,
+    "maximo": 603.1,
+    "minimo": 7.8
+  },
+  "1991-2000": {
+    "media_mensal": 186.39,
+    "total_meses": 119,
+    "meses_validos": 98,
+    "maximo": 663.5,
+    "minimo": 22.5
+  },
+  "2001-2010": {
+    "media_mensal": 175.13,
+    "total_meses": 120,
+    "meses_validos": 119,
+    "maximo": 550.4,
+    "minimo": 0.0
+  },
+  "2011-2020": {
+    "media_mensal": 204.82,
+    "total_meses": 108,
+    "meses_validos": 98,
+    "maximo": 807.8,
+    "minimo": 6.4
+  }
+}

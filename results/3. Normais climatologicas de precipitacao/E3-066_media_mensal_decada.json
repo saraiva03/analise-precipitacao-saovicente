@@ -1,0 +1,30 @@
+{
+  "1951-1960": {
+    "media_mensal": 270.92,
+    "total_meses": 34,
+    "meses_validos": 33,
+    "maximo": 786.4,
+    "minimo": 10.1
+  },
+  "1961-1970": {
+    "media_mensal": 241.04,
+    "total_meses": 120,
+    "meses_validos": 120,
+    "maximo": 754.3,
+    "minimo": 29.3
+  },
+  "1971-1980": {
+    "media_mensal": 277.98,
+    "total_meses": 120,
+    "meses_validos": 114,
+    "maximo": 1032.2,
+    "minimo": 6.2
+  },
+  "1981-1990": {
+    "media_mensal": 248.99,
+    "total_meses": 90,
+    "meses_validos": 58,
+    "maximo": 811.2,
+    "minimo": 13.3
+  }
+}
