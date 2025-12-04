@@ -1,0 +1,16 @@
+{
+  "1941-1970": {
+    "total_meses": 137,
+    "meses_validos": 137,
+    "maximo": 942.8,
+    "minimo": 0.0,
+    "anos_cobertura": "1941-1970 (30 anos)"
+  },
+  "1951-1980": {
+    "total_meses": 145,
+    "meses_validos": 129,
+    "maximo": 1286.9,
+    "minimo": 0.5,
+    "anos_cobertura": "1951-1980 (30 anos)"
+  }
+}

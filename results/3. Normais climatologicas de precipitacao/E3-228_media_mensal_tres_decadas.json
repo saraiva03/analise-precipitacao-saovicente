@@ -1,0 +1,44 @@
+{
+  "1941-1970": {
+    "total_meses": 158,
+    "meses_validos": 155,
+    "maximo": 847.6,
+    "minimo": 0.0,
+    "anos_cobertura": "1941-1970 (30 anos)"
+  },
+  "1951-1980": {
+    "total_meses": 171,
+    "meses_validos": 166,
+    "maximo": 746.0,
+    "minimo": 14.9,
+    "anos_cobertura": "1951-1980 (30 anos)"
+  },
+  "1961-1990": {
+    "total_meses": 291,
+    "meses_validos": 279,
+    "maximo": 887.0,
+    "minimo": 14.3,
+    "anos_cobertura": "1961-1990 (30 anos)"
+  },
+  "1971-2000": {
+    "total_meses": 359,
+    "meses_validos": 343,
+    "maximo": 887.0,
+    "minimo": 14.3,
+    "anos_cobertura": "1971-2000 (30 anos)"
+  },
+  "1981-2010": {
+    "total_meses": 355,
+    "meses_validos": 339,
+    "maximo": 887.0,
+    "minimo": 2.4,
+    "anos_cobertura": "1981-2010 (30 anos)"
+  },
+  "1991-2020": {
+    "total_meses": 355,
+    "meses_validos": 343,
+    "maximo": 821.9,
+    "minimo": 2.4,
+    "anos_cobertura": "1991-2020 (30 anos)"
+  }
+}
