@@ -1,6 +1,6 @@
 # 🌧️ Análise da Precipitação Histórica de São Vicente
 
-Este repositório contém os dados brutos, scripts e resultados da análise da precipitação pluviométrica no município de **São Vicente**, com foco na identificação de padrões climáticos e eventos extremos.
+Este repositório contém os dados brutos, scripts e resultados da análise da precipitação pluviométrica no município de **São Vicente**, com foco na identificação de padrões climáticos e eventos extremos. O vídeo da apresentação final se encontra em: https://drive.google.com/file/d/1JN0eoMKKjJU5Rp-P5rpFBkBMHARJxT1g/view?usp=sharing
 
 ## 🎯 Objetivo
 
